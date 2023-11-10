@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: #0F0;
+    font-family: 'Consolas', monospace;    
+    font-size: large;
+}
+
+#head {
+    text-align: center;    
+}
+
+input {
+    outline: none;
+    border: none;
+    background-color: black;
+    color: #0F0;
+    padding: 1em .5em;
+    display: block;
+    font-size: 1.5em;
+    font-family: 'Consolas', monospace;
+    flex: 1;
+}
+
+button{
+    display: flex;
+    background-color: black;    
+    color: #0F0;
+}
+img{
+    width: 30%;
+    height: 20%;
+}
